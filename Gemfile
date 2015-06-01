@@ -28,6 +28,8 @@ gem 'bootstrap-will_paginate'
 gem 'will_paginate'
 gem 'devise'
 gem 'faker'
+gem 'private_pub'
+gem 'thin'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
